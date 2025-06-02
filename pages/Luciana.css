@@ -1,0 +1,45 @@
+header{
+    background: url(https://sun1-21.userapi.com/s/v1/ig2/U2KytgZmMHER3pF9GglFc7Y33XY2IzGn4Tj5iu6rB-ovFRPTE74em7p96gSFbincyLiqeZD9Bjze0vmwbJMiz670.jpg?quality=95&as=32x47,48x70,72x105,108x158,160x234,240x351,360x526,480x702,540x789,640x935,720x1052,832x1216&from=bu&u=8TcraZpEH33tg7RhD07TJpucZ-7yFika767ecMxHSQA&cs=89x130);
+    border: solid;
+    border-color: rgb(233, 5, 5);
+    border-width: 5px;
+    border-radius: 15px;
+    text-align: center;
+    height: 160px;
+    width: 78%;
+    display: inline-block;
+    margin-left: 200px;
+    word-spacing: 15wpx;
+    vertical-align: 80px;
+  
+  }
+  a{
+    text-decoration: none;
+    transition: 0.1s ease;
+    color: white;
+    -webkit-text-stroke: 0.25 black;
+  
+    font-size: 24px;
+    width: 290px;
+    display: inline-block;
+    height: 50px;
+    margin: auto;
+    margin-top: 25px;
+    transition: 500ms ease;
+    -webkit-text-stroke: 0.25px black;
+    
+  }
+  a:hover{
+    transform: scale(1.2);
+  }
+  a:hover{
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 0.25px rgb(0, 0, 0);
+  }
+  .ssilki{
+    background-color: rgb(156, 158, 19);
+    border-color: rgb(241, 245, 21);
+    border-width: 5px;
+    border-radius: 15px;
+    line-height: 45px;
+  }

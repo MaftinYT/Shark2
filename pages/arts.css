@@ -1,0 +1,87 @@
+body {
+    background: url(../img/ellen-joe-zenless-zone-zero.gif);
+}
+.arts {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .line {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 10px; 
+  }
+  
+  .art {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px; 
+
+  }
+  
+  .art img {
+    width: 750px;
+    height: 650px; 
+    border: 10px;
+    border: solid;
+    border-width: 5px;
+    border-radius: 6px;
+    border-color: red;
+  }
+  .textarts{
+    background: aqua;
+    margin: auto;
+    width: 1405px;
+    margin-left: 0.1px;
+}
+
+header{
+  background: url(https://i.playground.ru/p/h7zG3PCAI2XNY6i6l9QwSA.jpeg);
+  border: solid;
+  border-color: rgb(240, 30, 212);
+  border-width: 5px;
+  border-radius: 15px;
+  text-align: center;
+  height: 160px;
+  width: 78%;
+  display: inline-block;
+  margin-left: 200px;
+  word-spacing: 15wpx;
+  vertical-align: 80px;
+
+}
+a{
+  text-decoration: none;
+  transition: 0.1s ease;
+  color: rgb(253, 37, 163);
+  -webkit-text-stroke: 0.25 black;
+
+  font-size: 24px;
+  width: 290px;
+  display: inline-block;
+  height: 50px;
+  margin: auto;
+  margin-top: 25px;
+  transition: 500ms ease;
+  -webkit-text-stroke: 0.25px black;
+  
+}
+a:hover{
+  transform: scale(1.2);
+}
+a:hover{
+  color: rgb(0, 0, 0);
+  -webkit-text-stroke: 0.25px rgb(0, 0, 0);
+}
+.ssilki{
+  background-color: rgb(96, 166, 223);
+  border-color: rgb(97, 0, 73);
+  border-width: 5px;
+  border-radius: 15px;
+  line-height: 45px;
+}
+
+  

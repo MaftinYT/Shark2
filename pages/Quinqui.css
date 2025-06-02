@@ -1,0 +1,46 @@
+header{
+    background: url(https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66bfc2e80828e01c22e6ac95_66bfce2e18c27747a4eac35d/scale_1200);
+    background-size:contain;
+    border: solid;
+    border-color: rgb(17, 37, 216);
+    border-width: 5px;
+    border-radius: 15px;
+    text-align: center;
+    height: 160px;
+    width: 78%;
+    display: inline-block;
+    margin-left: 200px;
+    word-spacing: 15wpx;
+    vertical-align: 80px;
+  
+  }
+  a{
+    text-decoration: none;
+    transition: 0.1s ease;
+    color: white;
+    -webkit-text-stroke: 0.25 black;
+  
+    font-size: 24px;
+    width: 290px;
+    display: inline-block;
+    height: 50px;
+    margin: auto;
+    margin-top: 25px;
+    transition: 500ms ease;
+    -webkit-text-stroke: 0.25px black;
+    
+  }
+  a:hover{
+    transform: scale(1.2);
+  }
+  a:hover{
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 0.25px rgb(0, 0, 0);
+  }
+  .ssilki{
+    background-color: rgb(18, 175, 26);
+    border-color: rgb(5, 95, 10);
+    border-width: 5px;
+    border-radius: 15px;
+    line-height: 45px;
+  }

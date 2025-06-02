@@ -1,0 +1,12 @@
+.arts{
+    background-image:url(../img/ellen-joe-zenless-zone-zero.gif);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.header {
+    background: aqua;
+    margin: auto;
+    width: 300px;
+    margin-left: 0.1px;
+}
+

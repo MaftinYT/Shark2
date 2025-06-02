@@ -1,0 +1,75 @@
+.xyzbody {
+    background: linear-gradient(to right,rgb(209, 107, 138), rgb(158, 58, 224)) ;
+}
+.artima {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.art_right,.art_left {
+  width: 30%;
+}
+
+.center-content {
+    width: 50%;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 250px;
+
+
+}
+.take {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #10adc9; /* Зеленый цвет */
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 100px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .take:hover {
+    background-color: #ff0000; /* Темнее при наведении */
+  }
+  
+  .take:active {
+    background-color: #26c6e2; /* Еще темнее при нажатии */
+  }
+
+
+
+.art_right {
+    width: 900px;
+    height: 800px;
+    display:inline-block;
+    border: solid;
+    border-width: 10px;
+    border-radius: 12px;
+    border-color: rgb(245, 98, 161);
+    justify-content: right;
+    
+  }
+  .art_left {
+    display: inline-block;
+    width: 900px;
+    height: 800px;
+    justify-content: left;
+    border: solid;
+    border-width: 10px;
+    border-radius: 12px;
+    border-color: rgb(140, 0, 255);
+
+  }
+  
+  .line {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px; 
+  }
+  
+
